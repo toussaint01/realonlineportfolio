@@ -1,0 +1,17 @@
+.nav-link{
+    margin-right: 40px !important;
+color:#fff !important;
+}
+a:hover{
+    color:crimson !important;
+}
+.no-left-padding{
+    padding-left:0;
+}
+.overlay-image{
+    background: linear-gradient(54deg,rgba(74,76,179,.95) 34%,hsla(0,34%,71%,.95)), url(../images/toussaint.JPG) no-repeat; 
+    background-position: center center;
+    background-size:auto;
+    height:345px;
+    box-shadow: 1px 5px #888888;
+}
